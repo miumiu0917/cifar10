@@ -1,5 +1,8 @@
-checkpoint/*
-data/*
-image/*
-logs/*
+checkpoint/*-*
+checkpoint/checkpoint
+data/*.bin
+data/*.txt
+data/*.html
+image/*.jpg
+logs/*events*
 __pycache__/*
